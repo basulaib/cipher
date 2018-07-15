@@ -1,14 +1,10 @@
+## Note
+
+This was a first year CS course assignment in Fall of 2015.
+
 ## Cipher
 
-Cipher is a simple Python program that encrypts and decrypts messages. This was a first year CS course assignment during Fall of 2015. 
-
-### Install
-
-Simply run the following
-
-```markdown
-$ git clone https://github.com/basulaib/cipher
-```
+Cipher is a simple Python program that encrypts and decrypts messages. 
 
 <!--- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
